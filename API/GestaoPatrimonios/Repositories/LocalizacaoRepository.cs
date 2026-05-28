@@ -17,6 +17,7 @@ namespace GestaoPatrimonios.Repositories
         public List<Localizacao> Listar()
         {
             return _context.Localizacao
+                .Include(localizacao => localizacao.Usuario)
                 .OrderBy(localizacao =>  localizacao.NomeLocal).ToList();
         }
 
