@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\applications\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\dtos\\localizacaodto\\listarlocalizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\dtos\\localizacaodto\\listarlocalizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\contexts\\gestaopatrimonioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\contexts\\gestaopatrimonioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio api next\\api\\gestaopatrimonios\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,115 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LocalizacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwDIAAABIAAAAAAAAAA==",
+              "Title": "PatrimonioService.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAD4v74AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T13:22:45.714Z",
+              "WhenOpened": "2026-05-29T12:05:38.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ListarLocalizacaoDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T13:22:20.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LocalizacaoRepository.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "RelativeToolTip": "GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T13:21:29.557Z"
+              "WhenOpened": "2026-05-28T13:21:29.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\appsettings.json",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\appsettings.json",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\appsettings.json",
-              "RelativeToolTip": "GestaoPatrimonios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-28T11:48:35.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.gitignore",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\.gitignore",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.gitignore",
-              "RelativeToolTip": "GestaoPatrimonios\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-25T12:38:17.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBairroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:33:11.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.env",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\.env",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.env",
-              "RelativeToolTip": "GestaoPatrimonios\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-25T11:51:06.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Program.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\Program.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Program.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:40:51.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".env.example",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.env.example",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\.env.example",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\.env.example",
-              "RelativeToolTip": "GestaoPatrimonios\\.env.example",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-25T11:34:04.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "GestaoPatrimoniosContext.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio API Next\\API\\GestaoPatrimonios\\Contexts\\GestaoPatrimoniosContext.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Contexts\\GestaoPatrimoniosContext.cs",

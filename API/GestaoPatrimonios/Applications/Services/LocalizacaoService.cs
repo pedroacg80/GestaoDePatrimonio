@@ -27,6 +27,7 @@ namespace GestaoPatrimonios.Applications.Services
                 NomeLocal = localizacao.NomeLocal,
                 LocalSAP = localizacao.LocalSAP,
                 DescricaoSAP = localizacao.DescricaoSAP,
+                NomeArea = localizacao.Area.NomeArea,
                 AreaID = localizacao.AreaID,
                 Responsavel = localizacao.Usuario.FirstOrDefault()?.Nome
             }).ToList();
@@ -47,6 +48,7 @@ namespace GestaoPatrimonios.Applications.Services
                 NomeLocal = localizacao.NomeLocal,
                 LocalSAP = localizacao.LocalSAP,
                 DescricaoSAP = localizacao.DescricaoSAP,
+                NomeArea = localizacao.Area.NomeArea,
                 AreaID = localizacao.AreaID,
                 Responsavel = localizacao.Usuario.FirstOrDefault()?.Nome
             };
